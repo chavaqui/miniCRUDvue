@@ -58,15 +58,16 @@ we can see the App running.
 This application is a Managment of contacts, Creating,Reading,Updating,Deleting.
 
 This is an simple CRUD developed with Vuejs 3, where we are focusing on implement:
-**5 Principles SOLID
+
+**5 Principles SOLID**
 
 Our main CLASS ha static methods that can't be modified
 
-**Clean Arquitecture
+**Clean Arquitecture**
 
 We have separated and organized the files by components and directories, also with routes
 
-**One function to one unique funtionality
+**One function to one unique funtionality**
 
 Each function of the CLASS "ContactService" are specific for one task. Also our components
 do 1 task , in this 1 page.
