@@ -29,13 +29,14 @@ Now we have to locate in this "../MINICRUD/server" folder and run
 ![Captura de pantalla de 2023-02-19 23-33-27](https://user-images.githubusercontent.com/82011423/220011267-6e1bd1b6-247e-4979-ab9d-d76c84575f8d.png)
 
 ## We are ready to RUN the proyect
-Let's start with running the BackEnd:
+
+**Let's change the terminal and start with running the BackEnd:**
 ```
 npm start
 ```
 ![Captura de pantalla de 2023-02-19 23-44-58](https://user-images.githubusercontent.com/82011423/220011481-fca41432-c165-48f4-b0be-c6120dde0eb2.png)
 
-Now we start the FrontEnd:
+**Let's change the terminal and now we start the FrontEnd:**
 ```
 npm run serve
 ```
@@ -47,25 +48,23 @@ image
 ```
 ![Captura de pantalla de 2023-02-19 23-48-52](https://user-images.githubusercontent.com/82011423/220012193-cb9b398a-b419-4fd7-ad7b-25ce951eb21f.png)
 
+### Proyect Running
 we can see the App running.
 ![Captura de pantalla de 2023-02-19 23-49-32](https://user-images.githubusercontent.com/82011423/220012064-c6ef3d79-47f7-4ff5-a477-f336bb7b63fe.png)
 
-### Compiles and hot-reloads for development
 
-```
-npm run serve
-```
-## EXPLANATION OF THE APPLICATION Vue-Contacts-CRUD
+## BRIEF EXPLANATION OF THE APPLICATION Vue-Contacts-CRUD
 
-### Compiles and minifies for production
-```
-npm run build
-```
+This application is a Managment of contacts, Creating,Reading,Updating,Deleting.
 
-### Lints and fixes files
-```
-npm run lint
-```
+This is an simple CRUD developed with Vuejs 3, where we are focusing on implement:
+*5 Principles SOLID
+*Clean Arquitecture
+*One function to one unique funtionality
+
+It's a basic approach.
+
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
