@@ -18,10 +18,12 @@ terminal", watch the image below:
 
 This will create a new terminal where we are going to run the
 Backend, like the image below:
+* 
 ![Captura de pantalla de 2023-02-19 23-42-16](https://user-images.githubusercontent.com/82011423/220011198-0e50e529-17ae-43da-b4fd-c48a239092ff.png)
 
-Now we have to locate in this server folder and run
+Now we have to locate in this "../MINICRUD/server" folder and run
 * "npm install"
+* 
 ![Captura de pantalla de 2023-02-19 23-33-27](https://user-images.githubusercontent.com/82011423/220011267-6e1bd1b6-247e-4979-ab9d-d76c84575f8d.png)
 
 ## We are ready to RUN the proyect
@@ -37,7 +39,8 @@ npm run serve
 ```
 ![Captura de pantalla de 2023-02-19 23-46-35](https://user-images.githubusercontent.com/82011423/220011718-776716ff-d9dd-4c0d-ad8a-1bf71779f3c4.png)
 
-Finally going to:
+Finally let's open the localhost:
+*
 ![Captura de pantalla de 2023-02-19 23-48-52](https://user-images.githubusercontent.com/82011423/220012193-cb9b398a-b419-4fd7-ad7b-25ce951eb21f.png)
 
 we can see the App running.
