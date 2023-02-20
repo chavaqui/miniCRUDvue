@@ -1,4 +1,4 @@
-# miniproy
+# Vue-Contacts-CRUD aplication
 
 ## Project setup
 ```
@@ -6,9 +6,11 @@ npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
+## EXPLANATION OF THE APPLICATION Vue-Contacts-CRUD
 
 ### Compiles and minifies for production
 ```
