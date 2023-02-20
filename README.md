@@ -1,6 +1,24 @@
-# Vue-Contacts-CRUD aplication
+# Vue-Contacts-CRUD mini aplication
 
 ## Project setup
+
+### After Cloning proyect
+We have to open 2 terminals, described in more details in the with the nexts pictures
+
+#### First localhost for FrontEnd
+We locate in the MINICRUDVUE folter and run 
+* "npm install"
+
+#### Second localhost for Backend
+We locate in the SERVER folder and clic "Open integrated
+terminal"; this will create a new terminal where we are going to run the
+Backend, like the image below:
+
+Now we have to locate in this server folder and run
+* "npm install"
+
+
+
 ```
 npm install
 ```
